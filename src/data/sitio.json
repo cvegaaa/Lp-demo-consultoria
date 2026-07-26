@@ -1,0 +1,36 @@
+{
+  "sector": "Consultores profesionales (abogados, notarías pequeñas, contadores, consultores financieros y de negocio)",
+  "nombre_generico": "Consultores Profesionales",
+  "eslogan_sugerido": "Asesoría legal, contable y financiera con criterio y experiencia",
+  "servicios": [
+    {
+      "titulo": "Asesoría Legal y Notarial",
+      "descripcion": "Acompañamiento jurídico en materia civil, comercial y notarial, con revisión minuciosa de cada documento y trámite."
+    },
+    {
+      "titulo": "Contabilidad y Cumplimiento Tributario",
+      "descripcion": "Gestión contable, declaración de impuestos y planeación tributaria para mantener su negocio al día y sin sorpresas."
+    },
+    {
+      "titulo": "Consultoría Financiera",
+      "descripcion": "Diagnóstico de finanzas, flujo de caja y proyecciones para tomar decisiones con claridad y respaldo técnico."
+    },
+    {
+      "titulo": "Estructuración de Negocios",
+      "descripcion": "Constitución de sociedades, contratos y gobernanza interna para hacer crecer su operación sobre bases sólidas."
+    },
+    {
+      "titulo": "Auditoría y Revisión Fiscal",
+      "descripcion": "Revisión independiente de estados financieros y procesos, con informes claros para accionistas y autoridades."
+    }
+  ],
+  "problema_tipo": "La mayoría de los despachos y consultorías pequeñas dependen del boca a boca y de referidos, sin una presencia digital que transmita autoridad y facilite el primer contacto de nuevos clientes.",
+  "cta_principal": "Agendar consulta inicial",
+  "datos_contacto_placeholder": {
+    "telefono": "+57 300 000 0000",
+    "whatsapp": "+57 300 000 0000",
+    "email": "contacto@consultoresprofesionales.co",
+    "direccion": "Centro empresarial, piso 8 — Ciudad, Colombia",
+    "horario": "Lunes a viernes, 8:00 a.m. - 6:00 p.m."
+  }
+}
